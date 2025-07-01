@@ -1,0 +1,6 @@
+youtube-transcript-api
+openai
+google-generativeai
+python-dotenv
+rich
+pyperclip
